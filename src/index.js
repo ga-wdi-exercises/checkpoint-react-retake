@@ -5,4 +5,9 @@ import App from './components/App/App';
 
 import contacts from "./contacts.json";
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(
+/* <Router> */
+<App contacts={this.state.contacts}/>,
+/* </Router> , */
+
+document.getElementById('root'));
