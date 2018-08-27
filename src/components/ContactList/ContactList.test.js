@@ -3,7 +3,6 @@ import { shallow } from "enzyme";
 import ReactDOM from "react-dom";
 import ContactList from "./ContactList";
 import Contact from "../Contact/Contact";
-
 import contacts from "../../contacts.json";
 
 describe("ContactList component:", () => {
