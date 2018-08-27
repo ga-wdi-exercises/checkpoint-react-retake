@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Superman",
+    "email": "Sups@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/e/eb/SupermanRoss.png",
+    "super_power": "Flight"
+  },
+  {
+    "name": "Batman",
+    "email": "Batman@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/8/87/Batman_DC_Comics.png",
+    "super_power": "Super Rich"
+  },
+  {
+    "name": "Wonder Woman",
+    "email": "WW@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/9/93/Wonder_Woman.jpg",
+    "super_power": "Goddess"
+  },
+  {
+    "name": "The Flash",
+    "email": "Flashy@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/e/ed/The_Flash_Family.jpg",
+    "super_power": "Super Speed"
+  },
+  {
+    "name": "Cyborg",
+    "email": "Cy@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/5/58/Cyborg_%28Victor_Stone%29.jpg",
+    "super_power": "Robot"
+  },
+  {
+    "name": "Green Lantern",
+    "email": "GL@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/8/80/Green_Lantern_Rebirth_6.jpg",
+    "super_power": "Green Lantern Ring"
+  },
+  {
+    "name": "Martian Manhunter",
+    "email": "Martian@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/3/34/Martian_Manhunter_Alex_Ross.png",
+    "super_power": "Shape Shifter"
+  }
+]
