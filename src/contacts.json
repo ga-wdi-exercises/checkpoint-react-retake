@@ -40,5 +40,11 @@
     "email": "Martian@gmail.com",
     "profile_picture": "https://upload.wikimedia.org/wikipedia/en/3/34/Martian_Manhunter_Alex_Ross.png",
     "super_power": "Shape Shifter"
+  },
+  {
+    "name": "Aquaman",
+    "email": "Atlantis@gmail.com",
+    "profile_picture": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png",
+    "super_power": "talks to fish"
   }
 ]
