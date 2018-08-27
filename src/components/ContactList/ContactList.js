@@ -5,7 +5,7 @@ class ContactList extends Component {
   render() {
     return (
       <div className="contact-list">
-        <Contact contacts={contacts} />
+        <Contact />
       </div>
     );
   }
