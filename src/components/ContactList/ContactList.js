@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Contact from '../Contact/Contact.js'
 
 
 class ContactList extends Component {
