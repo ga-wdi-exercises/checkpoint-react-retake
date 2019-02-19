@@ -9,6 +9,7 @@ class NewContact extends Component {
                 <input type='text' name='name'/> Name  
                 <input type='text' name='email'/> Email
                 <input type='text' name='profile_picture'/>profile_picture
+                <input type='text' name='super_power'/>
             </form>
             <button type="submit" form="form" value="Submit">Submit</button>  
             </div>
